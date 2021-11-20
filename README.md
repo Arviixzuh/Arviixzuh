@@ -1,7 +1,10 @@
 ### Hola aqui :wave:
 
 Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D
-<br>Me gusta programar por pasatiempo... 
+
+### Sobre mi:
+
+Soy de Venezuela, Me gusta programar por pasatiempo, SpiderMan es mejor que SuperMan
 
 ### Mis proyectos:
 
