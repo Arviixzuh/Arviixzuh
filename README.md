@@ -24,5 +24,5 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
 
 MEDIA | NOMBRE 
 ------|:------:
-![Discord](https://cdn.discordapp.com/attachments/909121957562314803/911625282677518386/Discord.png) | [ImVictor#0217](https://discord.gg/7KPQn9x2nY)
-![Twitter](https://cdn.discordapp.com/attachments/909121957562314803/911625512919654401/Twitter.png) | [@ImVictorMC](https://twitter.com/ImVictorMC)
+![Discord](https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png) | [ImVictor#0217](https://discord.gg/7KPQn9x2nY)
+![Twitter](https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png) | [@ImVictorMC](https://twitter.com/ImVictorMC)
