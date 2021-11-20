@@ -7,7 +7,7 @@ Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D
 
 ¡Actualmente estoy creando un bot multifuncional en Discord!
 
-• ![Gunter](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
+• [Gunter](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
 
 
 ### Tengo conocimientos en
