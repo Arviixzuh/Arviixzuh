@@ -1,3 +1,15 @@
+### Hola aqui :wave:
+
+Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D
+<br>Me gusta programar por pasatiempo... 
+
+### Mis proyectos:
+
+¡Actualmente estoy creando un bot multifuncional en Discord!
+
+• ![Gunter](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
+
+
 ### Tengo conocimientos en
 
 JavaScript | HTML5 | CSS | Node.js
