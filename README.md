@@ -1,4 +1,4 @@
-### Hola aqui :wave:
+<h1  align="center">Hola aqui :wave:</h1>
 
 Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D
 
