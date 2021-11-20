@@ -1,4 +1,4 @@
-### Skills
+###Tengo conocimientos en
 
 JavaScript | HTML5 | CSS | Node.js
 ---------------|:-----------:|:----------|:----------:
