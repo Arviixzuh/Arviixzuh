@@ -12,13 +12,6 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
 
 • [Gunter](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
 
-### Contacto :mailbox:
-
-Puedes contactarme por discord, ya que es la plataforma que mas utilizo dia a dia
-
-• [ImVictor#0217](https://discord.gg/U8APdjGQNq)
-
-
 ### Tengo conocimientos en
 
 JavaScript | HTML5 | CSS | Node.js
