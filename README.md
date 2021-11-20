@@ -20,7 +20,7 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
   <img src='https://cdn.discordapp.com/emojis/911471408956198912.png' height='80px'/> 
 </p> 
 
-<h2 align="center">Puedes contactarme en :books:</h2>
+<h2 align="center">Puedes contactarme en :mailbox:</h2>
 
 <p align="center"> 
 <img src="https://cdn.discordapp.com/emojis/910978103793303582.gif?size=44"/>
