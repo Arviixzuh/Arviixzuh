@@ -1,22 +1,24 @@
 <h1  align="center">Hola aqui :wave:</h1>
 
-Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D
+<p align="center">Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D<br> 
+Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan! </p>
 
-### Sobre mi :sparkles:
+<h2 align="center">Mis Proyertos :file_folder:</h2>
 
-Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan!
+<p align="center"> ¡Actualmente estoy creando un bot multifuncional en Discord!
 
-### Mis proyectos :file_folder:
+| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | 
+| :---: | 
+<img align='center' src='https://cdn.discordapp.com/avatars/777282969705644060/27a8c6bc08767a4d17e47495e866042d.webp?size=1024' width="100px"  height='100px'> |
 
-¡Actualmente estoy creando un bot multifuncional en Discord!
+<h2 align="center">Tengo conocimientos en :books:</h2>
 
-• [Gunter](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
-
-### Tengo conocimientos en :books:
-
-JavaScript | HTML5 | CSS | Node.js
----------------|:-----------:|:----------|:----------:
-![js](https://cdn.discordapp.com/emojis/911470322346233866.png) | ![html5](https://cdn.discordapp.com/emojis/911470270517235772.png) | ![css](https://cdn.discordapp.com/emojis/911470302268121108.png) | ![node](https://cdn.discordapp.com/emojis/911471408956198912.png)
+<p align="center">
+  <img src='https://cdn.discordapp.com/emojis/911470322346233866.png' height='80px'/>
+  <img src='https://cdn.discordapp.com/emojis/911470270517235772.png' height='80px'/>
+  <img src='https://cdn.discordapp.com/emojis/911470302268121108.png' height='80px'/>
+  <img src='https://cdn.discordapp.com/emojis/911471408956198912.png' height='80px'/>
+</p>
 
 ### Contacto :mailbox:
 
