@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Unnamed colors](https://user-images.githubusercontent.com/8020752/110257517-97024200-7f9e-11eb-9ff0-9a03fa573de9.png)
+![Unnamed colors](https://cdn.discordapp.com/attachments/906682875557085214/911434011858055208/dino.gif)
 
 <!--
 **ImVicttorMC/ImVicttorMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
