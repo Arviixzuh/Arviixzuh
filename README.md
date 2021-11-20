@@ -1,4 +1,4 @@
-###Tengo conocimientos en
+### Tengo conocimientos en
 
 JavaScript | HTML5 | CSS | Node.js
 ---------------|:-----------:|:----------|:----------:
