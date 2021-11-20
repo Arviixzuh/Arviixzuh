@@ -1,4 +1,4 @@
-![city](https://external-preview.redd.it/rzobLafAiFofW2Uv1C7v44aQr0pSmPAjZ-GnmCarRFc.gif?format=mp4&s=8d4f0fc2a3d1541e0ac21ca0b7acf56d7c19d3bc)
+![city](https://cdn.discordapp.com/attachments/909121957562314803/911445308691611659/ezgif-1-2612aa844957.gif)
 
 <!--
 **ImVicttorMC/ImVicttorMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
