@@ -20,10 +20,9 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
   <img src='https://cdn.discordapp.com/emojis/911471408956198912.png' height='80px'/>
 </p>
 
-### Contacto :mailbox:
+<img src="https://cdn.discordapp.com/emojis/910978103793303582.gif?size=44"/>
 
 MEDIA | NOMBRE 
 ------|:------:
 ![Discord](https://cdn.discordapp.com/attachments/909121957562314803/911625282677518386/Discord.png) | [ImVictor#0217](https://discord.gg/7KPQn9x2nY)
 ![Twitter](https://cdn.discordapp.com/attachments/909121957562314803/911625512919654401/Twitter.png) | [@ImVictorMC](https://twitter.com/ImVictorMC)
-
