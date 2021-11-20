@@ -2,21 +2,21 @@
 
 Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D
 
-### Sobre mi:
+### Sobre mi :sparkles:
 
 Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan!
 
-### Mis proyectos:
+### Mis proyectos :file_folder:
 
 ¡Actualmente estoy creando un bot multifuncional en Discord!
 
 • [Gunter](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
 
-### Contacto
+### Contacto :mailbox:
 
 Puedes contactarme por discord, ya que es la plataforma que mas utilizo dia a dia
 
-[ImVictor#0217](https://discord.gg/U8APdjGQNq)
+• [ImVictor#0217](https://discord.gg/U8APdjGQNq)
 
 
 ### Tengo conocimientos en
