@@ -17,3 +17,11 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
 JavaScript | HTML5 | CSS | Node.js
 ---------------|:-----------:|:----------|:----------:
 ![js](https://cdn.discordapp.com/emojis/911470322346233866.png) | ![html5](https://cdn.discordapp.com/emojis/911470270517235772.png) | ![css](https://cdn.discordapp.com/emojis/911470302268121108.png) | ![node](https://cdn.discordapp.com/emojis/911471408956198912.png)
+
+### Contacto :mailbox:
+
+MEDIA | NOMBRE 
+------|:------:
+![Discord](https://cdn.discordapp.com/attachments/909121957562314803/911625282677518386/Discord.png) | [ImVictor#0217](https://discord.gg/7KPQn9x2nY)
+![Twitter](https://cdn.discordapp.com/attachments/909121957562314803/911625512919654401/Twitter.png) | [@ImVictorMC](https://twitter.com/ImVictorMC)
+
