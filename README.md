@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Unnamed colors](https://cdn.discordapp.com/attachments/906682875557085214/911434011858055208/dino.gif)
+![City](https://tenor.com/view/cyberpunk-gif-14522842)
 
 <!--
 **ImVicttorMC/ImVicttorMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
