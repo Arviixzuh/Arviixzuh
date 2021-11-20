@@ -1,6 +1,11 @@
-![city](https://cdn.discordapp.com/attachments/909121957562314803/911445308691611659/ezgif-1-2612aa844957.gif)
+### Skills
 
------------------------------|:-----------:|:-----------: |
+JavaScript | HTML5 | CSS | Node.js
+---------------|:-----------:|:----------|:----------:
+![js](https://cdn.discordapp.com/emojis/911470322346233866.png) | ![html5](https://cdn.discordapp.com/emojis/911470270517235772.png) | ![css](https://cdn.discordapp.com/emojis/911470302268121108.png) | ![node](https://cdn.discordapp.com/emojis/911471408956198912.png)
+
+
+
       
 <!--
 **ImVicttorMC/ImVicttorMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
