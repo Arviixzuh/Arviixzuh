@@ -7,7 +7,7 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
 
 <p align="center"> ¡Actualmente estoy creando un bot multifuncional en Discord!
 
-| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | 
+| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">`Gunter`</a> | 
 | :---: | 
 <img align='center' src='https://cdn.discordapp.com/avatars/777282969705644060/27a8c6bc08767a4d17e47495e866042d.webp?size=1024' width="100px"  height='100px'> |
 
