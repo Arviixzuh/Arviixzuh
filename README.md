@@ -9,7 +9,7 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
 
 | <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">`Gunter`</a> | 
 | :---: | 
-<img align='center' src='https://cdn.discordapp.com/avatars/777282969705644060/27a8c6bc08767a4d17e47495e866042d.webp?size=1024' width="100px"  height='100px'> |
+<img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> |
 
 <h2 align="center">Tengo conocimientos en :books:</h2>
 
