@@ -20,11 +20,10 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
   <img src='https://cdn.discordapp.com/emojis/911471408956198912.png' height='52px'/> 
 </p> 
 
-<h2 align="center">Puedes contactarme en :mailbox:</h2>
+<h2 align="center">Puedes contactarme por :mailbox:</h2>
 
-<p align="center"> 
-<img src="https://cdn.discordapp.com/emojis/910978103793303582.gif?size=44"/>
-<img src='https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png' width="42px"  height='42px'> 
+<h2 align="center">
+<img src='https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png' width="42px"  height='42px' > 
 <img src='https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png' width="42px"  height='42px'> 
 <img src='https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png' width="42px"  height='42px'> 
 </p> 
