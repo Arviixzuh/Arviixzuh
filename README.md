@@ -11,7 +11,7 @@ Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan! </p>
 | :---: | 
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> |
 
-<h2 align="center">Languajes y herramientas:</h2>
+<h2 align="center">Languajes y herramientas ⚙️</h2>
 
   <p align="center"> 
   <img alt="Java Script" src='https://cdn.discordapp.com/attachments/909121957562314803/911466546533130270/javascript.jpg' height='32px' />
