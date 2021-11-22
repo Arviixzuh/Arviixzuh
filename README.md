@@ -20,11 +20,13 @@ Soy de Venezuela, Me gusta programar por pasatiempo, ¡SpiderMan es mejor que Su
   <img src='https://cdn.discordapp.com/emojis/911471408956198912.png' height='52px'/> 
 </p> 
 
-<h2 align="center">Puedes contactarme por :mailbox:</h2>
+<!--CONTACTO-->
 
-<h2 align="center">
-<img src='https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png' width="42px"  height='42px' > 
-<img src='https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png' width="42px"  height='42px'> 
-<img src='https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png' width="42px"  height='42px'> 
-</p> 
+[discord]: https://discord.gg/qJ4nQFZYCB
+[twitter]: https://twitter.com/imvictormc
+[youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
+[<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
+[<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
+[<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
 
+<!--CONTACTO-->
