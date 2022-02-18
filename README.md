@@ -1,6 +1,6 @@
 <h1  align="center">Hola aqui :wave:</h1>
 
-<p align="center">Mi nombre es Victor, tengo 15 años y quiero estudiar Ingeniería en Sistemas :D<br> 
+<p align="center">Mi nombre es Victor, tengo 16 años y quiero estudiar Ingeniería en Sistemas :D<br> 
 Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan! </p>
 
 <h2 align="center">Mis Proyertos :file_folder:</h2>
@@ -40,4 +40,4 @@ ESTADISTICAS-->
 
 <!--CONTACTO-->
 
-**© [ImVicttorMC](https://github.com/ImVicttorMC)**
+**© [Arviixzuh](https://github.com/Arviixzuh)**
