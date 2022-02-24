@@ -30,8 +30,8 @@ Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan! </p>
 ESTADISTICAS-->
 
 
-[discord]: https://discord.gg/qJ4nQFZYCB
-[twitter]: https://twitter.com/imvictormc
+[discord]: https://discord.gg/U8APdjGQNq
+[twitter]: https://twitter.com/Arviixzuh_
 [youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
 
 [<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
