@@ -1,7 +1,6 @@
 <h1  align="center">Hola aqui :wave:</h1>
 
-<p align="center">Mi nombre es Victor, tengo 16 años y quiero estudiar Ingeniería en Sistemas :D<br> 
-Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan! </p>
+<p align="center">Mi nombre es Victor, tengo 16 años y quiero estudiar Ingeniería en Sistemas (el camino del estrés según muchos) :'D</p>
 
 <h2 align="center">Mis Proyectos :file_folder:</h2>
 
