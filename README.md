@@ -1,4 +1,4 @@
-<h1  align="center">Hola aqui :wave:</h1>
+<h1 align="center">Hola aqui :wave:</h1>
 
 <p align="center">Mi nombre es Victor, tengo 16 años de edad, vivo en Venezuela y quiero estudiar Ingeniería en Sistemas <br>(el camino del estrés según muchos) :'D</p>
 
