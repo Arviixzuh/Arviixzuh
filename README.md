@@ -13,6 +13,8 @@
 
 <h2 align="center">Languajes y herramientas ⚙️</h2>
 
+<p align="center"> Aprendo lo mas que puedo, pero soy retrasado
+
   <p align="center"> 
   <img alt="Java Script" src='https://cdn.discordapp.com/attachments/909121957562314803/911466546533130270/javascript.jpg' height='32px' />
   <img alt="HTML5" src='https://cdn.discordapp.com/emojis/911470270517235772.png' height='38px' /> 
