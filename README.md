@@ -3,13 +3,14 @@
 <p align="center">Mi nombre es Victor, tengo 16 años y quiero estudiar Ingeniería en Sistemas :D<br> 
 Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan! </p>
 
-<h2 align="center">Mis Proyertos :file_folder:</h2>
+<h2 align="center">Mis Proyectos :file_folder:</h2>
 
-<p align="center"> ¡Actualmente estoy creando un bot multifuncional en Discord!
+<p align="center"> ¡Actualmente estoy trabajando en un bot multifuncional para Discord!
 
 | <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">`Gunter`</a> | 
 | :---: | 
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> |
+  
 
 <h2 align="center">Languajes y herramientas ⚙️</h2>
 
@@ -20,14 +21,14 @@ Me gusta programar por pasatiempo, ¡SpiderMan es mejor que SuperMan! </p>
   <img alt="Visual Studio Code" src='https://cdn.discordapp.com/attachments/909121957562314803/912394706263113819/Vstudiocode.png' height='32px' />
 </p> 
 
-<!--ESTADISTICAS 
 
+<!--a
 <summary><a align ="center">🔎 Estadisticas </a></summary>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImVicttorMC&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arviixzuh&show_icons=true&theme=onedark" />
 </a> 
+a-->
 
-ESTADISTICAS-->
 
 
 [discord]: https://discord.gg/U8APdjGQNq
