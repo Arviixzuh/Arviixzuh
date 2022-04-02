@@ -8,7 +8,8 @@ estudiar Ingeniería en Sistemas 💻☁️<br>
 (el camino del estrés según muchos) 
 
 
-# Mis Proyectos :file_folder:
+<h2 align="center">Proyectos</h2>
+<p align="center">Take a look at my most outstanding projects.</p>
 
 <img align='left' src='https://www.gifss.com/fuego/antorchas/images/antorcha-35.gif' width='15%'>
 <img align='right' src='https://www.gifss.com/fuego/antorchas/images/antorcha-35.gif' width='15%'>  
