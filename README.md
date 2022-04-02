@@ -11,8 +11,8 @@ estudiar Ingeniería en Sistemas 💻☁️<br>
 <h2 align="center">Proyectos</h2>
 <p align="center">Echa un vistazo a mis proyectos más destacados.</p>
 
-<img align='left' src='https://www.gifss.com/fuego/antorchas/images/antorcha-35.gif' width='15%'>
-<img align='right' src='https://www.gifss.com/fuego/antorchas/images/antorcha-35.gif' width='15%'>  
+<img align='left' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='15%'>
+<img align='right' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='15%'>  
 
 | <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> | 
 | :---: | :---: | :---: | :---: |
