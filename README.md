@@ -4,7 +4,7 @@
 # Hola aqui 👋
 Mi nombre es **Victor**, tengo 16 años de edad<br>
 vivo en **Venezuela** y actualmente pienso<br>
-estudiar Ingeniería en Sistemas 💻☁️<br>
+estudiar Ingeniería en Sistemas 💻☁️🔒<br>
 (el camino del estrés según muchos) 
 
 
