@@ -18,14 +18,46 @@ estudiar Ingeniería en Sistemas 💻☁️<br>
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'>
 
-<h2 align="center">Languajes y herramientas</h2>
+<h2 align="center">Skills</h2>
+<p align="center">A summary of my programming skills.</p>
 
-  <p align="center"> 
-  <img alt="Java Script" src='https://cdn.discordapp.com/attachments/909121957562314803/911466546533130270/javascript.jpg' height='32px' />
-  <img alt="HTML5" src='https://cdn.discordapp.com/emojis/911470270517235772.png' height='38px' /> 
-  <img alt="CSS" src='https://cdn.discordapp.com/emojis/911470302268121108.png' height='38px' /> 
-  <img alt="Visual Studio Code" src='https://cdn.discordapp.com/attachments/909121957562314803/912394706263113819/Vstudiocode.png' height='32px' />
-</p> 
+<p align="center">
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apollo.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cloudflare.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/debian.webp' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/ec2.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/electron.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/graphql.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mariadb.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nestjs.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nextjs.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/Nginx.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redis.webp' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redux.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/relay.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/rxjs.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sass.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/solidity.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/typescript.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/webpack.svg' height='42px'>
+</p>
+
+<h2 align="center">Pinned Repositories</h2>
+<p align="center">Take a look at my most outstanding repositories.</p>
 
 
 [discord]: https://discord.gg/U8APdjGQNq
