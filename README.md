@@ -27,8 +27,8 @@ estudiar Ingeniería en Sistemas 💻☁️<br>
   <img alt="Visual Studio Code" src='https://cdn.discordapp.com/attachments/909121957562314803/912394706263113819/Vstudiocode.png' height='32px' />
 </p> 
 
-<h2 align="center">Pinned Repositories</h2>
-<p align="center">Take a look at my most outstanding repositories.</p>
+<h2 align="center">Repositorios</h2>
+<p align="center">Echa un vistazo a mis repositorios más destacados.</p>
 
 
 [discord]: https://discord.gg/U8APdjGQNq
