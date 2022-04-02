@@ -10,6 +10,9 @@ estudiar Ingeniería en Sistemas 💻☁️<br>
 
 <h2 align="center">Proyectos</h2>
 
+<img align='left' src='https://www.gifss.com/fuego/antorchas/images/antorcha-35.gif' width='20%'>
+<img align='right' src='https://www.gifss.com/fuego/antorchas/images/antorcha-35.gif' width='20%'>  
+
 | <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> |
