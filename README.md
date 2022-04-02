@@ -18,7 +18,7 @@ estudiar Ingeniería en Sistemas 💻☁️<br>
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'>
 
-<h2 align="center">Languajes y herramientas ⚙️</h2>
+<h2 align="center">Languajes y herramientas</h2>
 
   <p align="center"> 
   <img alt="Java Script" src='https://cdn.discordapp.com/attachments/909121957562314803/911466546533130270/javascript.jpg' height='32px' />
