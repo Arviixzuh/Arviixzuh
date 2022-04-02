@@ -1,38 +1,15 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=2685BF" alt="Arviixzuh Profie Views" /> </p>
-<h1 align="center">Hola aqui :wave:</h1>
+<img align='right' src='https://th.bing.com/th/id/R.29d43af003fb3c1516bd3add9d121506?rik=6PmfQ43GZ1amlg&pid=ImgRaw&r=0' width='30%'>  
+<img align='left' src='https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmHd3G4lA&pid=ImgRaw&r=0' width='20%'> 
 
-<p align="center">Mi nombre es Victor, tengo 16 años de edad<br> vivo en Venezuela y actualmente pienso estudiar Ingeniería en Sistemas <br>(el camino del estrés según muchos) :'D</p>
+# Hola aqui 👋
+Mi nombre es **Victor**, tengo 16 años de edad, vivo en **Venezuela**<br> 
+y actualmente pienso estudiar Ingeniería en Sistemas 💻☁️<br>
+(el camino del estrés según muchos) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=ddcd54" alt="Arviixzuh Profie Views" /> </p>
 
-<h2 align="center">Mis Proyectos :file_folder:</h2>
+<h2 align="center">Proyectos</h2>
 
 | <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">`Gunter`</a> | 
 | :---: | 
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> |
   
-
-<h2 align="center">Languajes y herramientas ⚙️</h2>
-
-  <p align="center"> 
-  <img alt="Java Script" src='https://cdn.discordapp.com/attachments/909121957562314803/911466546533130270/javascript.jpg' height='32px' />
-  <img alt="HTML5" src='https://cdn.discordapp.com/emojis/911470270517235772.png' height='38px' /> 
-  <img alt="CSS" src='https://cdn.discordapp.com/emojis/911470302268121108.png' height='38px' /> 
-  <img alt="Visual Studio Code" src='https://cdn.discordapp.com/attachments/909121957562314803/912394706263113819/Vstudiocode.png' height='32px' />
-</p> 
-
-<!--a
-<summary><a align ="center">🔎 Estadisticas </a></summary>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arviixzuh&show_icons=true&theme=onedark" />
-</a> 
-a-->
-
-[discord]: https://discord.gg/U8APdjGQNq
-[twitter]: https://twitter.com/Arviixzuh_
-[youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
-
-[<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
-[<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
-[<img align="right" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
-
-**© [Arviixzuh](https://github.com/Arviixzuh)**
-
