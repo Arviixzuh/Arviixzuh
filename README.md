@@ -2,8 +2,9 @@
 <img align='left' src='https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmHd3G4lA&pid=ImgRaw&r=0' width='20%'> 
 
 # Hola aqui 👋
-Mi nombre es **Victor**, tengo 16 años de edad, vivo en **Venezuela**<br>
-y actualmente pienso estudiar Ingeniería en Sistemas 💻☁️<br>
+Mi nombre es **Victor**, tengo 16 años de edad<br>
+vivo en **Venezuela** y actualmente pienso<br>
+estudiar Ingeniería en Sistemas 💻☁️<br>
 (el camino del estrés según muchos) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=ddcd54" alt="Arviixzuh Profie Views" /> </p>
 
