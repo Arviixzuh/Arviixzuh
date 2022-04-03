@@ -1,5 +1,5 @@
 <img align='right' src='https://th.bing.com/th/id/R.29d43af003fb3c1516bd3add9d121506?rik=6PmfQ43GZ1amlg&pid=ImgRaw&r=0 ' width='30%'>  
-<img align='left' src='https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmHd3G4lA&pid=ImgRaw&r=0' width='29%'> 
+<img align='left' src='https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmHd3G4lA&pid=ImgRaw&r=0' width='25%'> 
 
 <!--a 
 peach: https://th.bing.com/th/id/R.c8dcf0abeae8183846e7bc0be6432159?rik=ZaW7yvGW4MEQEA&pid=ImgRaw&r=0
