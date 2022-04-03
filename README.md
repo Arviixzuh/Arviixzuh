@@ -13,6 +13,16 @@ Mi nombre es **Victor**, tengo 16 años de edad, vivo en **Venezuela** y
 actualmente pienso estudiar **Ingeniería en Sistemas** 💻☁️🔒 (el camino del estrés según muchos) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
 
+[discord]: https://discord.gg/U8APdjGQNq
+[twitter]: https://twitter.com/Arviixzuh_
+[youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
+
+[<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
+[<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
+[<img align="right" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
+
+**© [Arviixzuh](https://github.com/Arviixzuh)**
+
 <br><br>
 <h2 align="center">Proyectos</h2>
 <p align="center">Echa un vistazo a mis proyectos más destacados.</p>
@@ -23,13 +33,3 @@ actualmente pienso estudiar **Ingeniería en Sistemas** 💻☁️🔒 (el camin
 | <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> | 
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'>
-
-[discord]: https://discord.gg/U8APdjGQNq
-[twitter]: https://twitter.com/Arviixzuh_
-[youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
-
-[<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
-[<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
-[<img align="right" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
-
-**© [Arviixzuh](https://github.com/Arviixzuh)**
