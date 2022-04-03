@@ -13,9 +13,16 @@ Mi nombre es **Victor**, tengo 16 años de edad, vivo en **Venezuela** y
 actualmente pienso estudiar **Ingeniería en Sistemas** 💻☁️🔒 (el camino del estrés según muchos) 
 <!--a <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>a-->
 
+
+# Sobre mi
+Me gustan los dias soleados
+
 [discord]: https://discord.gg/U8APdjGQNq
 [twitter]: https://twitter.com/Arviixzuh_
 [youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
+
+<img align='left' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='25%'>
+<img align='right' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='25%'>  
 
 [<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
 [<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
