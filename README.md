@@ -1,5 +1,5 @@
-<img align='right' src='https://th.bing.com/th/id/R.c8dcf0abeae8183846e7bc0be6432159?rik=ZaW7yvGW4MEQEA&pid=ImgRaw&r=0 ' width='25%'>  
-<img align='left' src='https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmHd3G4lA&pid=ImgRaw&r=0' width='28%'> 
+<img align='right' src='https://th.bing.com/th/id/R.c8dcf0abeae8183846e7bc0be6432159?rik=ZaW7yvGW4MEQEA&pid=ImgRaw&r=0' width='23%'>  
+<img align='left' src='https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmHd3G4lA&pid=ImgRaw&r=0' width='25%'> 
 
 <!--a 
 peach: https://th.bing.com/th/id/R.c8dcf0abeae8183846e7bc0be6432159?rik=ZaW7yvGW4MEQEA&pid=ImgRaw&r=0
