@@ -13,7 +13,7 @@ Mi nombre es **Victor**, tengo 16 años de edad<br>
 vivo en **Venezuela** y actualmente pienso<br>
 estudiar Ingeniería en Sistemas 💻☁️🔒<br>
 (el camino del estrés según muchos) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
 
 
 <h2 align="center">Proyectos</h2>
