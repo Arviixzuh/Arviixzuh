@@ -9,7 +9,7 @@ yoshi: https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmH
 a-->
 
 # Hola aqui 👋
-Mi nombre es **Victor**, tengo 16 años de edad vivo en **Venezuela** y<br>
+Mi nombre es **Victor**, tengo 16 años de edad, vivo en **Venezuela** y
 actualmente pienso estudiar Ingeniería en Sistemas 💻☁️🔒<br>
 (el camino del estrés según muchos) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
