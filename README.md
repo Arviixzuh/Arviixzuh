@@ -21,7 +21,6 @@ actualmente pienso estudiar **Ingeniería en Sistemas** 💻☁️🔒 (el camin
 [<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
 [<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
 [<img align="right" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
-[<img align="right" alt="Instagram" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/988562210764771388/83-831769_turkey-face-clip-art.png" />][instagram]
 
 **© [Arviixzuh](https://github.com/Arviixzuh)**
 
