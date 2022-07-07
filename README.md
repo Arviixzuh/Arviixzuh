@@ -8,19 +8,19 @@ kirby: https://th.bing.com/th/id/R.214d0ef08f75b8e64d987a7ca48d0e62?rik=3g%2byC7
 yoshi: https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmHd3G4lA&pid=ImgRaw&r=0 
 a-->
 
-# Hola aqui 👋
-Mi nombre es **Victor**, tengo 16 años de edad, vivo en **Venezuela** y
-actualmente pienso estudiar **Ingeniería en Sistemas** 💻☁️🔒 (el camino del estrés según muchos) 
+# Hello there 👋
+My name is **Victor**, I am 16 years old, I live in **Venezuela** and
+I currently plan to study **systems engineering** 💻☁️🔒 (the path of stress according to many)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
 
 <br><br>
-<h2 align="center">Proyectos</h2>
-<p align="center">Echa un vistazo a mis proyectos.</p>
+<h2 align="center">Projects</h2>
+<p align="center">Take a look at my projects.</p>
 
 <img align='left' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='15%'>
 
 
-| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> | <a href="@" target="_blank">**Próximamente**</a> | 
+| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | 
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'>
 
