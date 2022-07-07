@@ -9,8 +9,8 @@ yoshi: https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmH
 a-->
 
 # Hello there 👋
-My name is **Victor**, I am 16 years old, I live in **Venezuela** and
-I currently plan to **study systems engineering** 💻☁️🔒 (the path of stress according to many)
+My name is **Victor**, I am 16 years old, I live in Venezuela and
+I currently plan to study systems engineering 💻☁️🔒 (the path of stress according to many)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
 
 <br><br>
