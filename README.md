@@ -32,6 +32,5 @@ I currently plan to study systems engineering 💻☁️🔒 (the path of stress
 [<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
 [<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
 [<img align="right" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
-<a href="https://google.com" target="_blank">Click para ir a Google</a>
 
 **© [Arviixzuh](https://github.com/Arviixzuh)**
