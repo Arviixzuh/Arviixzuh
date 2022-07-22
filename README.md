@@ -20,7 +20,7 @@ I currently plan to study systems engineering 💻☁️🔒 (the path of stress
 <img align='left' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='15%'>
 
 
-| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">Gunter</a> | <a href="@" target="_blank">Undefined</a> | <a href="@" target="_blank">Undefined</a> | <a href="@" target="_blank">Undefined</a> | 
+| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | 
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'>
 
@@ -29,8 +29,9 @@ I currently plan to study systems engineering 💻☁️🔒 (the path of stress
 [youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
 [instagram]: https://www.instagram.com/arviixzuh/
 
-[<img align="right" target="_blank" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
-[<img align="right" target="_blank" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
-[<img align="right" target="_blank" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
+[<img align="right" alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759734871314503/Discord.png.png" />][discord]
+[<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
+[<img align="right" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
+<a href="https://google.com" target="_blank">Click para ir a Google</a>
 
 **© [Arviixzuh](https://github.com/Arviixzuh)**
