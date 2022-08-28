@@ -17,8 +17,7 @@ I currently plan to study systems engineering 💻☁️🔒 (the path of stress
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my projects.</p>
 
-
-
+<img align='left' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='15%'>
 
 | <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | 
 | :---: | :---: | :---: | :---: |
