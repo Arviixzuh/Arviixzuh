@@ -12,7 +12,7 @@ yoshi: https://th.bing.com/th/id/R.c343e41cbe710325635e527967829beb?rik=syns0QmH
 a-->
 
 # Hello there 👋
-My name is **Victor**, I am 16 years old, I live in Venezuela and
+My name is **Victor**, I am 17 years old, I live in Venezuela and
 I am studying systems engineering 💻☁️🔒 (the path of stress according to many)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
 
@@ -22,9 +22,9 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
 
 <img align='left' src='https://i1.wp.com/enviablelife.mx/wp-content/uploads/2019/05/cropped-logo-sin-nada-1.png?fit=300%2C300&ssl=1' width='15%'>
 
-| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | 
+| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="https://github.com/Arviixzuh/Easy-Translate" target="_blank">**Easy Translate**</a> | <a href="@" target="_blank">**Undefined**</a> | <a href="@" target="_blank">**Undefined**</a> | 
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/1013112999562723388/gunter.png' width="90px"  height='90px'> | <img align='center' width="100px" src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'>
+<img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/1013112999562723388/gunter.png' width="90px"  height='90px'> | <img align='center' width="100px" src='https://arviixzuh.github.io/Easy-Translate/src/img/traductor.png' height='100px'>  | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'> | <img align='center' src='https://th.bing.com/th/id/R.f9df1667fd320fb45a3591026600238f?rik=3bG91UxXjbB%2bPw&pid=ImgRaw&r=0' width="100px" height='100px'>
 
 [discord]: https://discord.gg/U8APdjGQNq
 [twitter]: https://twitter.com/Arviixzuh_
