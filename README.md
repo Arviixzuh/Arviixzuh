@@ -4,7 +4,7 @@
 # Hello there 👋
 My name is **Victor**, I am 17 years old, I live in Venezuela and
 I am studying systems engineering 💻☁️🔒 (the path of stress according to many)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" /> </p>
 <br><br>
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my projects.</p>
