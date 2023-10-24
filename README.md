@@ -26,12 +26,6 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-  />
-  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     alt="html5"
     width="40"
@@ -68,6 +62,12 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="git"
+    width="40"
+    height="40"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
     width="40"
@@ -78,6 +78,12 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     alt="nodejs"
     width="40"
     height="40"
+  />
+  <img
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+   alt="express"
+   width="40"
+   height="40"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -104,10 +110,10 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-   alt="express"
-   width="40"
-   height="40"
+   src="https://media.discordapp.net/attachments/1064750763013853264/1166474981992042677/socket.io.png?ex=654a9f7b&is=65382a7b&hm=1f67f0f55b5d14c6d4339be1c198ad4ef388e99100932061468543fa0eca3e2f&="
+   alt="socket.io"
+   width="35"
+   height="35"
   />
 </p>
 
