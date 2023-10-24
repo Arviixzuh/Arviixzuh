@@ -20,12 +20,6 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
 <p align="center">Languages and tools I have worked with</p>
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    alt="c"
-    width="40"
-    height="40"
-  />
-  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
     width="40"
