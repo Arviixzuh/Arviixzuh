@@ -44,6 +44,12 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
+    src="https://media.discordapp.net/attachments/1064750763013853264/1064750859361202237/discordjs.png?ex=6549b182&is=65373c82&hm=fc40adf2aba79959f21cdfdd8cee281a9cf1fca7eef3664a1b85a5c8dc6c3f05&=&width=473&height=473"
+    alt="discord.js"
+    width="40"
+    height="40"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     alt="java"
     width="40"
@@ -100,8 +106,8 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
   <img
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
    alt="express"
-    width="40"
-    height="40"
+   width="40"
+   height="40"
   />
 </p>
 
