@@ -1,8 +1,6 @@
 <img align='left' src='https://cdn.discordapp.com/attachments/909121957562314803/1071644357335203880/R.gif' width='25%'>  
 <img align='right' src='https://cdn.discordapp.com/attachments/909121957562314803/1071644297696379010/R.gif' width='25%'> 
 
-<div align="center">
-  
 # Hello there 👋
 My name is **Victor**, I am 17 years old, I live in Venezuela and
 I am studying systems engineering 💻☁️🔒 (the path of stress according to many)
@@ -12,8 +10,6 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
 <br><br>
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my projects.</p>
-
-</div>
 
 <div align="center">
   
