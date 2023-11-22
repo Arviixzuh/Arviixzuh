@@ -131,4 +131,4 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
 [<img align="right" alt="Twitter" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911759758103560212/Twitter.png.png" />][twitter]
 [<img align="right" alt="Youtube" width="32px" src="https://cdn.discordapp.com/attachments/909121957562314803/911760985143017472/Youtube.png.png" />][youtube]
 
-**© [Arviixzuh](https://github.com/Arviixzuh)**
+**[Arviixzuh](https://github.com/Arviixzuh)**
