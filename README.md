@@ -2,7 +2,7 @@
 <img align='right' src='https://cdn.discordapp.com/attachments/909121957562314803/1071644297696379010/R.gif' width='25%'> 
 
 # Hello there 👋
-My name is **Victor**, I am 17 years old, I live in Venezuela and
+My name is **Victor**, I am 18 years old, I live in Venezuela and
 I am studying systems engineering 💻☁️🔒 (the path of stress according to many)
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" />
@@ -59,6 +59,12 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     alt="mongodb"
     width="40"
@@ -79,6 +85,12 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+    alt="spring"
     width="40"
     height="40"
   />
