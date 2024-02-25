@@ -93,8 +93,8 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
   <img
     src="./assets/skills/Spring.webp"
     alt="spring"
-    width="40"
-    height="40"
+    width="35"
+    height="35"
   />
   <img
    src="./assets/skills/Expressjs.webp"
