@@ -49,7 +49,7 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
-    src="./assets/skills/java.webp"
+    src="./assets/skills/Java.webp"
     alt="java"
     width="40"
     height="40"
