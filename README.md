@@ -6,8 +6,6 @@
 My name is **Victor**, I am 18 years old, I live in Venezuela and
 I am studying systems engineering 💻☁️🔒 (the path of stress according to many)
 
-[view projects](https://arviixzuh.ml/)
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" />
 </p>
@@ -173,4 +171,4 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
 [<img align="right" alt="Twitter" width="32px" src="./assets/social/Twitter.webp" />][twitter]
 [<img align="right" alt="Youtube" width="32px" src="./assets/social/Youtube.webp" />][youtube]
 
-**[Arviixzuh](https://github.com/Arviixzuh)**
+**[Arviixzuh](https://arviixzuh.vercel.app/)**
