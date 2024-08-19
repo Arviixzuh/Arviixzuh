@@ -4,6 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" />
 </p>
 
+
+```js
+{
+  age: 18,
+  name: "arviixzuh",
+  favLang: "typescript",
+  country: "Venezuela",
+  currentLearning: "GO lang"
+}
+```
 <br><br>
 
 <h2 align="center">☕ Statistics</h2>
