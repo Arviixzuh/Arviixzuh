@@ -28,8 +28,21 @@
     <img src="https://github-profile-trophy.vercel.app/?username=arviixzuh&theme=tokyonight"/>
 </p>
 
+<h2 align="center">Projects</h2>
+<p align="center">Take a look at my projects.</p>
+
+<div align="center">
+  
+| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="https://arviixzuh.github.io/My-Symphony/" target="_blank">**My Symphony**</a> | <a href="https://arviixzuh.github.io/Easy-Translate/" target="_blank">**Easy Translate**</a> | <a href="@" target="_blank">**Undefined**</a> | 
+| :---: | :---: | :---: | :---: |
+<img align='center' src='./assets/projects/Gunter.webp' width="90px"  height='90px'> | <img align='center' width="100px" src='./assets/projects/MySymphony.webp' height='100px'>  | <img align='center' src='./assets/projects/EasyTranslate.webp' width="100px" height='100px'> | <img align='center' src='./assets/projects/Undefined.png' width="100px" height='100px'> |
+
+</div>
+
+
 <h2 align="center">💻 Skills</h2>
 <p align="center">Languages and tools I have worked with</p>
+
 <div align="center">
   <img
     src="./assets/skills/C.webp"
@@ -164,7 +177,6 @@
    height="35"
   />
 </div>
-
 <br><br><br><br>
 
 [discord]: https://discord.gg/U8APdjGQNq
