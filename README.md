@@ -1,3 +1,6 @@
+<img align='left' src='./assets/gifs/Yoshi.gif' width='25%'>  
+<img align='right' src='./assets/gifs/Kirby.gif' width='25%'>
+
 # Hello there 👋
 
 My name is **Victor**, I am 18 years old, I live in Venezuela and
