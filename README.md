@@ -10,16 +10,7 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
   <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" />
 </p>
 <br><br>
-<h2 align="center">Projects</h2>
-<p align="center">Take a look at my projects.</p>
 
-<div align="center">
-  
-| <a href="https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8" target="_blank">**Gunter**</a> | <a href="https://arviixzuh.github.io/My-Symphony/" target="_blank">**My Symphony**</a> | <a href="https://arviixzuh.github.io/Easy-Translate/" target="_blank">**Easy Translate**</a> | <a href="@" target="_blank">**Undefined**</a> | 
-| :---: | :---: | :---: | :---: |
-<img align='center' src='./assets/projects/Gunter.webp' width="90px"  height='90px'> | <img align='center' width="100px" src='./assets/projects/MySymphony.webp' height='100px'>  | <img align='center' src='./assets/projects/EasyTranslate.webp' width="100px" height='100px'> | <img align='center' src='./assets/projects/Undefined.png' width="100px" height='100px'> |
-
-</div>
 
 <h2 align="center">Skills</h2>
 <p align="center">Languages and tools I have worked with</p>
@@ -85,6 +76,12 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
+   src="./assets/skills/PrismaORM.webp"
+   alt="socket.io"
+   width="35"
+   height="35"
+  />
+  <img
     src="./assets/skills/Nodejs.webp"
     alt="nodejs"
     width="40"
@@ -115,6 +112,12 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
+   src="./assets/skills/Nestjs.svg"
+   alt="socket.io"
+   width="35"
+   height="35"
+  />
+  <img
     src="./assets/skills/Redux.webp"
     alt="redux"
     width="40"
@@ -127,7 +130,19 @@ I am studying systems engineering 💻☁️🔒 (the path of stress according t
     height="40"
   />
   <img
+   src="./assets/skills/TailwindCSS.svg"
+   alt="socket.io"
+   width="35"
+   height="35"
+  />
+  <img
    src="./assets/skills/Socketio.webp"
+   alt="socket.io"
+   width="35"
+   height="35"
+  />
+  <img
+   src="./assets/skills/Electronjs.webp"
    alt="socket.io"
    width="35"
    height="35"
