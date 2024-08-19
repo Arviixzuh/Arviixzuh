@@ -1,14 +1,9 @@
-<img align='left' src='./assets/gifs/Yoshi.gif' width='25%'>  
-<img align='right' src='./assets/gifs/Kirby.gif' width='25%'>
+<h2 align="center">👋 Hi there</h2>
 
-# Hello there 👋
-
-My name is **Victor**, I am 18 years old, I live in Venezuela and
-I am studying systems engineering 💻☁️🔒 (the path of stress according to many)
-
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=bfad26" alt="Arviixzuh Profie Views" />
 </p>
+
 <br><br>
 
 <h2 align="center">☕ Statistics</h2>
