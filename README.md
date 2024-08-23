@@ -30,7 +30,7 @@
 
 <div align="center">
   <h2 align="center">💻 Skills</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,c,sass,tailwind,react,nest,express,spring,vercel,npm,redux,nextjs,flask,git,vite,electron,notion,vscode,prisma,mongodb,mysql,sqlite,discordjs,nodejs,figma"/><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,c,sass,tailwind,react,nest,express,spring,vercel,redux,flask,git,vite,electron,notion,vscode,prisma,mongodb,mysql,sqlite,discordjs,nodejs,figma&perline=14"/><br>
 
 </div>
 
