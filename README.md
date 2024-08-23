@@ -31,8 +31,8 @@
 <div align="center">
   <h2 align="center">💻 Skills</h2>
   <p align="center">Languages and tools I have worked with</p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,c,sass,tailwind,react,nest,express,spring,vercel,npm"/><br>
-  <img src="https://skillicons.dev/icons?i=redux,nextjs,flask,git,vite,electron,notion,vscode,prisma,mongodb,mysql,sqlite,discordjs,nodejs,figma"/><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,c,sass,tailwind,react,nest,express,spring,vercel,npm,redux,nextjs,flask,git,vite,electron,notion,vscode,prisma,mongodb,mysql,sqlite,discordjs,nodejs,figma"/><br>
+
 </div>
 
 <br><br><br><br>
