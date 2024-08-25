@@ -11,7 +11,7 @@
   favLang: "typescript",
   country: "Venezuela",
   funFact: "Making a syntax error is my passion.",
-  currentLearning: "GO lang"
+  currentLearning: "Go"
 }
 ```
 <br><br>
