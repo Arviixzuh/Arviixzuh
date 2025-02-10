@@ -6,7 +6,7 @@
 
 ```js
 {
-  age: 18,
+  age: 19,
   name: "arviixzuh",
   favLang: "typescript",
   country: "Venezuela",
@@ -28,9 +28,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=arviixzuh&theme=tokyonight"/>
 </p>
 
+<h2 align="center">💻 Skills</h2>
+
 <div align="center">
-  <h2 align="center">💻 Skills</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,c,sass,tailwind,react,nest,express,spring,vercel,redux,flask,git,vite,electron,notion,vscode,prisma,mongodb,mysql,sqlite,discordjs,nodejs,figma&perline=14"/><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,html,css,sass,tailwind,vite,react,electron,redux,express,spring,nest,nodejs,discordjs,flask,mongodb,mysql,sqlite,prisma,aws,docker,cloudflare,ubuntu,nginx,vercel,git,vscode,figma&perline=16" alt="Progaming skills" />
 
 </div>
 
