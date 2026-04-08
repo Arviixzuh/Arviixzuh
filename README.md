@@ -34,7 +34,7 @@
 <h2 align="center">💻 Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,html,css,sass,tailwind,vite,react,electron,redux,express,spring,nest,nodejs,discordjs,flask,mongodb,mysql,sqlite,prisma,aws,docker,cloudflare,ubuntu,nginx,vercel,githubactions,gcp,git,vscode,figma&perline=17" alt="Progaming skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,html,css,sass,tailwind,vite,react,electron,redux,express,spring,nest,graphql,nodejs,discordjs,flask,mongodb,mysql,sqlite,prisma,aws,docker,cloudflare,ubuntu,nginx,vercel,githubactions,gcp,git,vscode,figma&perline=18" alt="Progaming skills" />
 </div>
 
 <br><br><br><br>
