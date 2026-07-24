@@ -26,10 +26,11 @@
   <img height="50%" width="auto" src ="https://denvercoder1-github-readme-stats.vercel.app/api/?username=arviixzuh&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arviixzuh&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=F8D866&hide=">
 </p>
-
+<!--
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=arviixzuh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
 </p> 
+-->
 
 <h2 align="center">💻 Skills</h2>
 
