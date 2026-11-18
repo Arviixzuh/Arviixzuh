@@ -14,14 +14,13 @@
 
 Hey, I'm Arviixzuh, a Software Engineer with experience building backend systems, web platforms, and desktop applications.
 
-Throughout my work, I've been involved in:
-- 🏗️ Designing backend systems using **Clean & Hexagonal Architecture** and SOLID principles.
-- 🧾 Integrating **ARCA electronic invoicing** and **MercadoPago webhooks**.
-- 🔒 Applying strict type safety and maintainable software design practices.
-- 🗄️ Managing database migrations with **Prisma** and **Liquibase**.
-- ☁️ Handling deployments and infrastructure with **Docker**, **Nginx**, and **GCP**.
-- 🦀 Developing desktop applications and native utilities with **Rust**.
-- 🌱 Exploring systems programming and currently learning **Go**.
+My work involves:
+
+- Backend Engineering: Designing scalable APIs and business systems using NestJS, Spring Boot, and relational databases.
+- System Design: Applying Clean Architecture, Hexagonal Architecture, and domain-driven design principles where appropriate.
+- Financial Integrations: Implementing ARCA electronic invoicing and MercadoPago payment workflows.
+- Infrastructure: Managing Docker environments, CI/CD pipelines, and cloud deployments.
+- Systems Programming: Exploring Rust, native desktop applications, and low-level software development.
 
 <br />
 
