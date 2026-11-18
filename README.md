@@ -2,7 +2,7 @@
   <h1>Arviixzuh</h1>
   <p><b>Software Engineer</b></p>
   <p>
-    <a href="https://arviixzuh.com">Portfolio</a> | 
+    <a href="https://arviixzuh.com">Website</a> | 
     <a href="https://www.linkedin.com/in/arviixzuh/">LinkedIn</a> | 
     <a href="mailto:contact@arviixzuh.com">Email</a>
   </p>
@@ -83,4 +83,4 @@ Explore more case studies and experiments on my [portfolio website](https://arvi
 ## 📫 Let's Connect
 
 I am always open to discussing challenging backend engineering, system architecture, or full-stack opportunities (remote).  
-Reach out via [LinkedIn](https://www.linkedin.com/in/arviixzuh/) or directly through my [website](https://arviixzuh.com).
+Reach out via [LinkedIn](https://www.linkedin.com/in/arviixzuh/).
