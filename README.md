@@ -39,10 +39,11 @@ I design and build robust backend systems, distributed architectures, and full-s
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Gestini**](https://gestini.com) | Multi-tenant SaaS ERP featuring automated ARCA electronic invoicing, POS, real-time MercadoPago billing, and AI data agents. | NestJS · React · Electron · PostgreSQL · Liquibase |
+| [**Gestini**](https://gestini.com) | Multi-tenant SaaS ERP featuring automated ARCA electronic invoicing, POS, real-time MercadoPago billing, and AI data agents. | Spring Boot · React · Electron · MySQL · Liquibase |
 | [**Marvig**](https://posadamarvig.com) | Hotel property management system with a customer booking portal, management dashboard, and conversational assistant. | TypeScript · NestJS · React · OpenAI API |
+| **Detail Plumbing** | 2D PDF blueprint measurement and automated estimation platform featuring Role-Based Access Control (RBAC) and secure audit logs. | TypeScript · NestJS · React · MySQL |
 | [**Litium**](https://github.com/Arviixzuhs/Litium) | ERP and e-commerce platform digitizing hardware and tech inventory sales into a secure, centralized storefront. | TypeScript · NestJS · React · PostgreSQL |
-| [**Vitalcare**](https://github.com/Arviixzuhs/Vitalcare) | Hospital administration desktop suite for patient records, appointment scheduling, and staff management. | TypeScript · Electron · React |
+| [**Vitalcare**](https://github.com/Arviixzuhs/Vitalcare) | Hospital administration desktop suite for patient records, appointment scheduling, and staff management. | TypeScript · NestJS · Electron · React · MySQL |
 
 Explore more case studies and experiments on my [portfolio website](https://arviixzuh.com).
 
