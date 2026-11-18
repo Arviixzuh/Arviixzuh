@@ -1,22 +1,28 @@
-<h2 align="center">👋 Hi there</h2>
+<div align="center">
+  <h1>Arviixzuh</h1>
+  <p><b>Software Engineer</b></p>
+  <p>
+    <a href="https://arviixzuh.com">Portfolio</a> | 
+    <a href="https://www.linkedin.com/in/arviixzuh/">LinkedIn</a> | 
+    <a href="mailto:contact@arviixzuh.com">Email</a>
+  </p>
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Arviixzuh&color=322b41" alt="Arviixzuh Profie Views" />
-</p>
+<br />
 
-```js
-{
-  age: 20,
-  name: "arviixzuh",
-  favLang: "typescript",
-  country: "Venezuela",
-  funFact: "Making a syntax error is my passion.",
-  currentLearning: "Go"
-}
-```
-<br><br>
+## 👋 About Me
 
-<h2 align="center">☕ Statistics</h2>
+I design and build robust backend systems, distributed architectures, and full-stack platforms for real-world businesses. My focus is on clean abstractions, domain-driven design, and maintainable codebases that scale cleanly in production.
+
+- 🧾 Integrated **ARCA (Argentina) electronic invoicing** and **MercadoPago** webhooks into production-ready multi-tenant SaaS environments at Gestini.
+- 🏗️ Build production systems using **Clean & Hexagonal Architecture**, SOLID principles, and strict type safety.
+- ⚙️ Manage versioned database migrations (Prisma, Liquibase) and containerized deployments with Docker, Nginx, and GCP.
+- 🦀 Building high-performance desktop tools and native utilities in **Rust**.
+- 🌱 Currently expanding my systems programming depth and learning **Go**.
+
+<br />
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-streak-stats-eight.vercel.app/?user=arviixzuh&theme=material-palenight&hide_border=true&short_numbers=false&background=00000000">
@@ -26,25 +32,55 @@
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/?username=arviixzuh&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviixzuh&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=F8D866">
 </p>
-<!-- <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=arviixzuh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
-</p>  -->
- 
-<h2 align="center">💻 Skills</h2>
+
+<br />
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Gestini**](https://github.com/Gestini) | Multi-tenant SaaS ERP featuring automated ARCA electronic invoicing, POS, real-time MercadoPago billing, and AI data agents. | NestJS · React · Electron · PostgreSQL · Liquibase |
+| [**Marvig**](https://github.com/Arviixzuhs/Marvig) | Hotel property management system with a customer booking portal, management dashboard, and conversational assistant. | TypeScript · NestJS · React · OpenAI API |
+| [**Litium**](https://github.com/Arviixzuhs/Litium) | ERP and e-commerce platform digitizing hardware and tech inventory sales into a secure, centralized storefront. | TypeScript · NestJS · React · PostgreSQL |
+| [**Vitalcare**](https://github.com/Arviixzuhs/Vitalcare) | Hospital administration desktop suite for patient records, appointment scheduling, and staff management. | TypeScript · Electron · React |
+
+Explore more case studies and experiments on my [portfolio website](https://arviixzuh.com).
+
+<br />
+
+## 💼 Experience
+
+- **Co-Founder**, Gestini *(Jun 2024 – Present)*  
+  Driving technical roadmap, system architecture, CI/CD pipelines, and core third-party financial API integrations.
+- **Full-Stack Developer**, Detail Plumbing *(Sep 2024 – May 2025)*  
+  Engineered a 2D PDF blueprint measurement and automated estimation platform with RBAC and secure audit logs.
+- **Full-Stack Developer**, Dream Junk Studios *(Sep 2022 – May 2024)*  
+  Developed business management software with integrated social features and robust Discord automation bots.
+- **Software Developer**, Freelance *(Jan 2018 – Oct 2022)*  
+  Designed custom B2B REST APIs, automation tooling, and bespoke backend services for diverse clients.
+
+<br />
+
+## 🎓 Education
+
+- **B.Sc. in Computer Engineering** · U.P.T.N.M "Ludovico Silva" *(2025 – Present)*
+- **Associate Degree in Computer Science (T.S.U.)** · U.P.T.N.M "Ludovico Silva" *(2022 – 2025)*
+
+<br />
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,html,css,sass,tailwind,vite,react,electron,redux,express,spring,nest,graphql,nodejs,discordjs,flask,mongodb,mysql,postgresql,sqlite,prisma,aws,docker,cloudflare,ubuntu,nginx,vercel,githubactions,gcp,git,vscode,figma&perline=18" alt="Progaming skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,rust,py,c,html,css,sass,tailwind,vite,react,electron,redux,express,spring,nest,graphql,nodejs,flask,mongodb,mysql,postgresql,sqlite,prisma,aws,docker,cloudflare,ubuntu,nginx,vercel,githubactions,gcp,git,vscode,figma&perline=18" alt="Tech Stack Icons" />
 </div>
 
-<br><br><br><br>
+<br />
 
-[discord]: https://discord.gg/U8APdjGQNq
-[twitter]: https://twitter.com/Arviixzuh_
-[youtube]: https://www.youtube.com/channel/UCSAafU0GMeeVK_wcmyrWAMg
-[instagram]: https://www.instagram.com/arviixzuh/
+> **Architectural Patterns & Practices:** Hexagonal & Clean Architecture · SOLID Principles · Dependency Injection · Repository, Builder & Specification Patterns · Comprehensive Unit Testing (Jest, Mockito)
 
-[<img align="right" alt="Discord" width="32px" src="./assets/social/Discord.webp" />][discord]
-[<img align="right" alt="Twitter" width="32px" src="./assets/social/Twitter.webp" />][twitter]
-[<img align="right" alt="Youtube" width="32px" src="./assets/social/Youtube.webp" />][youtube]
+<br />
 
-**[Arviixzuh](https://arviixzuh.vercel.app/)**
+## 📫 Let's Connect
+
+I am always open to discussing challenging backend engineering, system architecture, or full-stack opportunities (remote).  
+Reach out via [LinkedIn](https://www.linkedin.com/in/arviixzuh/) or directly through my [website](https://arviixzuh.com).
