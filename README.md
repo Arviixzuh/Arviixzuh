@@ -51,15 +51,15 @@ Explore more case studies and experiments on my [portfolio website](https://arvi
 
 ## 💼 Experience
 
-- **Co-Founder**, Gestini *(Jun 2024 – Present)*  
+- **Co-Founder · Gestini** · `Jun 2024 - Present` · Buenos Aires, Argentina (remote)  
   Driving technical roadmap, system architecture, CI/CD pipelines, and core third-party financial API integrations.
-- **Full-Stack Developer**, Detail Plumbing *(Sep 2024 – May 2025)*  
+- **Full-Stack Developer · Detail Plumbing** · `Sep 2024 - May 2025` · Miami, FL (remote)  
   Engineered a 2D PDF blueprint measurement and automated estimation platform with RBAC and secure audit logs.
-- **Full-Stack Developer**, Dream Junk Studios *(Sep 2022 – May 2024)*  
+- **Full-Stack Developer · Dream Junk Studios** · `Sep 2022 - May 2024` · Miami, FL (remote)  
   Developed business management software with integrated social features and robust Discord automation bots.
-- **Software Developer**, Freelance *(Jan 2018 – Oct 2022)*  
+- **Software Developer · Freelance** · `Jan 2018 - Oct 2022`  
   Designed custom B2B REST APIs, automation tooling, and bespoke backend services for diverse clients.
-
+  
 <br />
 
 ## 🎓 Education
