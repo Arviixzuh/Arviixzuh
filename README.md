@@ -65,7 +65,7 @@ Explore more case studies and experiments on my [portfolio website](https://arvi
 ## 🎓 Education
 
 - **B.Sc. in Computer Engineering** · U.P.T.N.M "Ludovico Silva" *(2025 – Present)*
-- **Associate Degree in Computer Science (T.S.U.)** · U.P.T.N.M "Ludovico Silva" *(2022 – 2025)*
+- **Associate Degree in Computer Science** · U.P.T.N.M "Ludovico Silva" *(2022 – 2025)*
 
 <br />
 
