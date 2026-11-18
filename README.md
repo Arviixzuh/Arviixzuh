@@ -12,13 +12,16 @@
 
 ## 👋 About Me
 
-I design and build robust backend systems, distributed architectures, and full-stack platforms for real-world businesses. My focus is on clean abstractions, domain-driven design, and maintainable codebases that scale cleanly in production.
+Hey, I'm Arviixzuh, a Software Engineer with experience building backend systems, web platforms, and desktop applications.
 
-- 🧾 Integrated **ARCA (Argentina) electronic invoicing** and **MercadoPago** webhooks into production-ready multi-tenant SaaS environments at Gestini.
-- 🏗️ Build production systems using **Clean & Hexagonal Architecture**, SOLID principles, and strict type safety.
-- ⚙️ Manage versioned database migrations (Prisma, Liquibase) and containerized deployments with Docker, Nginx, and GCP.
-- 🦀 Building high-performance desktop tools and native utilities in **Rust**.
-- 🌱 Currently expanding my systems programming depth and learning **Go**.
+Throughout my work, I've been involved in:
+- 🏗️ Designing backend systems using **Clean & Hexagonal Architecture** and SOLID principles.
+- 🧾 Integrating **ARCA electronic invoicing** and **MercadoPago webhooks**.
+- 🔒 Applying strict type safety and maintainable software design practices.
+- 🗄️ Managing database migrations with **Prisma** and **Liquibase**.
+- ☁️ Handling deployments and infrastructure with **Docker**, **Nginx**, and **GCP**.
+- 🦀 Developing desktop applications and native utilities with **Rust**.
+- 🌱 Exploring systems programming and currently learning **Go**.
 
 <br />
 
