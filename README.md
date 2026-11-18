@@ -4,7 +4,7 @@
   <p>
     <a href="https://arviixzuh.com">Website</a> | 
     <a href="https://www.linkedin.com/in/arviixzuh/">LinkedIn</a> | 
-    <a href="mailto:contact@arviixzuh.com">Email</a>
+    <a href="mailto:arviixzuh@gmail.com">Email</a>
   </p>
 </div>
 
