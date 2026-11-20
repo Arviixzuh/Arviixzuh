@@ -1,28 +1,18 @@
-<div align="center">
-  <h1>Arviixzuh</h1>
-  <p><b>Software Engineer</b></p>
+ <div>
+  <h1>Victor Pandolfi</h1>
+  <p><b>Software Engineer · Backend & Platform Development</b></p>
   <p>
-    <a href="https://arviixzuh.com">Website</a> | 
-    <a href="https://www.linkedin.com/in/arviixzuh/">LinkedIn</a> | 
+    <a href="https://arviixzuh.com">Website</a> ·
+    <a href="https://www.linkedin.com/in/arviixzuh/">LinkedIn</a> ·
     <a href="mailto:arviixzuh@gmail.com">Email</a>
   </p>
 </div>
 
 <br />
 
-## 👋 About Me
+I design and build software platforms, with a focus on backend engineering and business solutions.
 
-Hey, I'm Arviixzuh, a Software Engineer with experience building backend systems, web platforms, and desktop applications.
-
-My work involves:
-
-- Backend Engineering: Designing scalable APIs and business systems using NestJS, Spring Boot, and relational databases.
-- System Design: Applying Clean Architecture, Hexagonal Architecture, and domain-driven design principles where appropriate.
-- Financial Integrations: Implementing ARCA electronic invoicing and MercadoPago payment workflows.
-- Infrastructure: Managing Docker environments, CI/CD pipelines, and cloud deployments.
-- Systems Programming: Exploring Rust, native desktop applications, and low-level software development.
-
-<br />
+<!-- <br />
 
 ## 📊 GitHub Stats
 
@@ -33,7 +23,7 @@ My work involves:
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/?username=arviixzuh&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviixzuh&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=F8D866">
-</p>
+</p> -->
 
 <br />
 
@@ -46,8 +36,6 @@ My work involves:
 | **Detail Plumbing** | 2D PDF blueprint measurement and automated estimation platform featuring Role-Based Access Control (RBAC) and secure audit logs. | TypeScript · NestJS · React · MySQL |
 | [**Litium**](https://github.com/Arviixzuhs/Litium) | ERP and e-commerce platform digitizing hardware and tech inventory sales into a secure, centralized storefront. | TypeScript · NestJS · React · PostgreSQL |
 | [**Vitalcare**](https://github.com/Arviixzuhs/Vitalcare) | Hospital administration desktop suite for patient records, appointment scheduling, and staff management. | TypeScript · NestJS · Electron · React · MySQL |
-
-Explore more case studies and experiments on my [portfolio website](https://arviixzuh.com).
 
 <br />
 
@@ -76,10 +64,6 @@ Explore more case studies and experiments on my [portfolio website](https://arvi
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,rust,py,c,html,css,sass,tailwind,vite,react,electron,redux,express,spring,nest,graphql,nodejs,flask,mongodb,mysql,postgresql,sqlite,prisma,aws,docker,cloudflare,ubuntu,nginx,vercel,githubactions,gcp,git,vscode,figma&perline=18" alt="Tech Stack Icons" />
 </div>
-
-<br />
-
-> **Architectural Patterns & Practices:** Hexagonal & Clean Architecture · SOLID Principles · Dependency Injection · Repository, Builder & Specification Patterns · Comprehensive Unit Testing (Jest, Mockito)
 
 <br />
 
