@@ -61,7 +61,7 @@ I design and build software platforms, with a focus on backend engineering and b
 
 ## 🛠️ Tech Stack
 
-💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
@@ -75,10 +75,11 @@ I design and build software platforms, with a focus on backend engineering and b
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white">
 </p>
 
-📚 Frameworks and Libraries
+### 📚 Frameworks and Libraries
 
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white">
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white">
@@ -86,12 +87,15 @@ I design and build software platforms, with a focus on backend engineering and b
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-453E38.svg">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+  <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-010101.svg?logo=socketdotio&logoColor=white">
+  <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-5865F2.svg?logo=discord&logoColor=white">
 </p>
 
-🗄️ Databases
+### 🗄️ Databases
 
 <p align="left">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
@@ -99,21 +103,28 @@ I design and build software platforms, with a focus on backend engineering and b
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white">
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white">
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?logo=spring&logoColor=white">
+  <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-2962FF.svg?logo=liquibase&logoColor=white">
 </p>
 
-⚙️ Software and Tools
+### ⚙️ Software and Tools
 
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
+  <img alt="Certbot" src="https://img.shields.io/badge/Certbot-003A70.svg">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2671E5.svg?logo=githubactions&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D7.svg?logo=visualstudiocode&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
+  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-78A641.svg">
+  <img alt="PDF.js" src="https://img.shields.io/badge/PDF.js-FF0000.svg?logo=adobeacrobatreader&logoColor=white">
 </p>
 
-☁️ Cloud and Providers
+### ☁️ Cloud and Providers
 
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonwebservices&logoColor=white">
@@ -121,7 +132,6 @@ I design and build software platforms, with a focus on backend engineering and b
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
-
 <br />
 
 ## 📫 Let's Connect
